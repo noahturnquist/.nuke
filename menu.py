@@ -130,3 +130,7 @@ workflow_menu = nuke.menu('Nuke').addMenu("Workflow")
 import backdrops_setter
 import set_file_paths
 import relative_cornerpins
+
+#PIPELINE
+pipeline_menu = nuke.menu('Nuke').addMenu("Pipeline")
+import shot_launcher
