@@ -2,3 +2,5 @@ preferences13.0.nk
 uistate.ini
 Workspaces/
 FileChooser_Favorites.pref
+*__pycache__
+*.pyc
